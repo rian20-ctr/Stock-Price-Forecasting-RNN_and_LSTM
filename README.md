@@ -1,6 +1,3 @@
-# Tugas-Kelompok_Casebase
-Membandingkan 2 Algoritma RNN Sederhana dan Long Short-Term Memory (LSTM) untuk memprediksi Harga Saham IDX Shariah dengan menggunakan data historis dari 24/4/2020 - 24/5/2025 
-Jumlah Dataset = 1220 data
-Nama Anggota
-1. Yoga Pratama - 2211102187
-2. Rian Fadila - 2211102237
+# CaseBase - Stock Price Forecasting with RNN and Long Short-Term Memory (LSTM)
+Comparing a simple RNN algorithm and Long Short-Term Memory (LSTM) for predicting IDX Shariah stock prices, using historical data from April 24, 2020, to May 24, 2025.
+Dataset size = 1,220 data points.
